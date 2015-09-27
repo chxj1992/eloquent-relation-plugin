@@ -1,17 +1,6 @@
 {
-  "name": "medlinker/eloquent-relation-plugin",
+  "name": "chxj1992/eloquent-relation-plugin",
   "license": "MIT",
-  "repositories": [
-    {"packagist": false},
-    {
-      "type": "composer",
-      "url": "http://satis.dev.okapp.cc"
-    },
-    {
-      "type": "composer",
-      "url": "http://satis-private.dev.okapp.cc"
-    }
-  ],
   "require": {
     "jenssegers/mongodb": "~2.2"
   },
