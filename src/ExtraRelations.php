@@ -4,7 +4,6 @@ namespace Medlinker\EloquentRelationPlugin\Src;
 
 trait ExtraRelations {
 
-
     public function containsMany($related, $foreignKey = null, $localKey = null)
     {
 
